@@ -3,9 +3,9 @@ define('CONFIG_ONLY', true);
 // config.php
 class Database {
     private $host = "localhost";
-    private $db_name = "project_keuangan";
-    private $username = "root";
-    private $password = "";
+    private $db_name = "projec15_project_keuangan";
+    private $username = "projec15_root";
+    private $password = "@kaesquare123";
     public $conn;
 
     public function getConnection() {
